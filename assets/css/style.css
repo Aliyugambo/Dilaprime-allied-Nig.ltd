@@ -252,6 +252,12 @@ body {
     font-weight: 600;
 }
 
+.logo {
+    width: 5.4rem;
+    height: 4.5rem;
+    background-color: none;
+}
+
 .btn-success {
     background-color: #51be78;
     border-color: #51be78;
