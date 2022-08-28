@@ -22,8 +22,8 @@ a {
 }
 
 a:hover {
-    background-color: rgb(83, 245, 132);
-    color: #fff;
+    background-color: none;
+    color: rgb(59, 59, 59);
 }
 
 ul {
@@ -59,11 +59,14 @@ html,
 body {
     height: 100%;
     font-family: "inter", sans-serif;
+    font-weight: 400;
+    line-height: 1.5rem;
 }
 
 p {
     margin-bottom: 0px;
     width: 100%;
+    color: #545454;
 }
 
 .no-padding {
@@ -110,7 +113,7 @@ body {
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
     text-rendering: optimizeLegibility;
-    color: #6a6a6a;
+    /* color: #424141; */
     overflow-x: hidden;
 }
 
@@ -520,7 +523,6 @@ header .small-menu {
 .slider-captions {
     position: absolute;
     bottom: 132px;
-    text-align: center;
 }
 
 @media screen and (max-width: 1050px) {
@@ -716,6 +718,12 @@ header .small-menu {
 
 .about-us .image-part .about-quick-box .about-qcard .blu {
     color: #21d7d9;
+}
+
+.icons {
+    font-size: 3rem;
+    margin-bottom: 30px;
+    color: #3cc88f;
 }
 
 
