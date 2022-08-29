@@ -253,9 +253,9 @@ body {
 }
 
 .logo {
-    width: 5.4rem;
     height: 4.5rem;
     background-color: none;
+    color: #3cc88f;
 }
 
 .btn-success {
@@ -555,7 +555,7 @@ header .small-menu {
 
 @media screen and (max-width: 572px) {
     .slider-captions {
-        display: none;
+        /* display: none; */
     }
 }
 
