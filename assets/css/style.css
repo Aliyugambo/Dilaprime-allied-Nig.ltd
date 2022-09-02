@@ -550,12 +550,14 @@ header .small-menu {
     }
     .slider-captions .slider-title {
         font-size: 32px;
+        color: #1a202f;
     }
 }
 
 @media screen and (max-width: 572px) {
-    .slider-captions {
+    .slider-captions .slider-text {
         /* display: none; */
+        color: #1a202f;
     }
 }
 
