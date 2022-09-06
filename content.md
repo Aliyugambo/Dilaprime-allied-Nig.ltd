@@ -79,7 +79,7 @@ include Rural electrification.
 #### OPERATIONAL EXCELLENCE
 
 DILA PRIME ALLIED NIG. LTD. has evolved to a more
-recognizable firm gathering accomplishments and vast knowhow since inception. In addition, having achieved consistency
+recognizable firm gathering accomplishments and vast know-how since inception. In addition, having achieved consistency
 across all our projects, we have established a brand that is
 identifiable with dependability and quality assurance. More
 importantly, a key initiative of ours has always been continual
